@@ -78,6 +78,7 @@ public class Main {
             if (arrThree[i] % 2 != 0) {
                 arrThree[i] = arrThree[i] + 1;
 
+
             }
         }
             System.out.println(Arrays.toString(arrThree) + " ");
